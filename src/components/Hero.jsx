@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="header section__padding" id="home">
       <div className="header-content">
         <h1 className="gradient__text">Summarize Any Article in a click</h1>
-        <p>This helps you summarize any piece of text into concise, easy to digest content so you can free yourself from information overload.</p>
+        <p>This helps you summarize any article into concise, easy to digest content so you can free yourself from information overload.</p>
 
         <div className="header-content__input">
           <input type="email" placeholder="Your Email Address" />
