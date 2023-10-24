@@ -16,7 +16,7 @@ const Footer = () => {
             </span>
           </a>
           <p className='mt-6 sm:max-w-sm text-white max-sm:text-base text-lg '>
-           This helps you summarize any piece of text into concise, easy to digest content so you can free yourself from information overload.
+           This helps you summarize any article into concise, easy to digest content so you can free yourself from information overload.
           </p>
           
           <div className='flex items-center gap-5 mt-8'>
