@@ -12,10 +12,15 @@ const App = () => {
     <main>
       <div className='App'>
         <div className="gradient__bg">
+        <Navbar />
+        <Hero />
         </div>
         <div className="demo">
          <Demo />
         </div>
+        <Brand />
+        <CTA />
+        <Footer />
       </div>
     </main>
   );
